@@ -1,9 +1,16 @@
 <?php 
+//development connection
+// $host = "localhost";
+// $user = "root";
+// $pass = "";
+// $db   = "cee_db";
+// $conn = null;
 
-$host = "localhost";
-$user = "root";
-$pass = "";
-$db   = "cee_db";
+//remote connection
+$host = "remotemysql.com";
+$user = "zwAgsoqvy3";
+$pass = "f9fNJYFq3d";
+$db   = "zwAgsoqvy3";
 $conn = null;
 
 try {
